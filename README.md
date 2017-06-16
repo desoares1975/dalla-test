@@ -17,7 +17,7 @@ e.g.
 PORT=8888
 MONGO_HOST=localhost
 MONGO_SCHEMA=dalla
-
+Save it to a file named .env
 ```bash
 $ npm index.js
 ```
